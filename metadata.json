@@ -1,0 +1,6 @@
+{
+  "name": "Pencatatan Keuangan Pribadi",
+  "description": "Aplikasi pencatatan keuangan pribadi sederhana yang terintegrasi dengan Google Sheets untuk mencbatat pemasukan, pengeluaran, dan melihat laporan analisis keuangan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
